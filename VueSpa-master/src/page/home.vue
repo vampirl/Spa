@@ -35,7 +35,7 @@
           <p class="p1">建站日志</p>
           <span class="el-icon-refresh"></span>
         </div>
-        <p class="p2">2个待完成，一个正在进行中</p>
+        <p class="p2">1个待完成，一个正在进行中</p>
         <div class="steps">
           <el-steps direction="vertical" space="15%" :active="2">
             <el-step class="" title="更多模块开发中" status="finish"></el-step>
