@@ -114,7 +114,7 @@ export default {
         this.$store.commit("resizeDiv");
       };
     },
-    launchFullScreen(element) {  
+    launchFullScreen(element) {
         if (element.requestFullscreen) {
         element.requestFullscreen();
       } else if (element.msRequestFullscreen) {
@@ -149,8 +149,8 @@ export default {
         console.log(2)
         this.cancelFullScreen()
         this.full = false;
-      } 
-      
+      }
+
     },
     isFullScreen(){
       let explorer = window.navigator.userAgent.toLowerCase();
