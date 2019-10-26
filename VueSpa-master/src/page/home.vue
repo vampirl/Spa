@@ -69,7 +69,7 @@
         </div>
         <div class="message">
           <img src="../assets/img/img4.jpg">
-          <span class="name">樱木花道</span>
+          <span class="name">樱木1道</span>
           <span class="msg">终于可以打球了</span>
         </div>
       </div>
@@ -238,5 +238,5 @@ export default {
   position: absolute;
   top:25px;
   right: 30px;
-} 
+}
 </style>
