@@ -10,7 +10,7 @@
           </div>
           <div>
             <img src="../assets/iconfont/camera.png" alt="照片" class="iconfont">
-            <span class="txt">照片</span>
+            <span class="txt">照骗</span>
             <span class="num">802</span>
           </div>
         </div>
@@ -238,5 +238,5 @@ export default {
   position: absolute;
   top:25px;
   right: 30px;
-} 
+}
 </style>
